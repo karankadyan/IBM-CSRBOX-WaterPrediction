@@ -3,6 +3,10 @@
 
 This Streamlit application predicts the quality of water based on various chemical and biological parameters. It uses a pre-trained deep learning model to classify water as either 'safe' or 'unsafe' for consumption.
 
+<img width="1440" alt="Screenshot 2024-08-05 at 5 27 53 PM" src="https://github.com/user-attachments/assets/416d46c3-9ae6-4e19-947f-d2232f2d89b5">
+<img width="1440" alt="Screenshot 2024-08-05 at 5 28 42 PM" src="https://github.com/user-attachments/assets/3ab5756c-3c3d-441c-81b9-70fb54fd899f">
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
